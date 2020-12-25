@@ -12,7 +12,7 @@ function Details() {
             <CardHeader title="Income"></CardHeader>
             <CardContent>
                 <Typography variant="h5"></Typography>
-                <Doughnut data={null}/> 
+                <Doughnut data={null} />
             </CardContent>
         </Card>
     )

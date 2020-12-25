@@ -1,5 +1,5 @@
 import React from 'react'
-import Details from '../Details/Details'
+import Details from '../Details'
 import { Grid } from '@material-ui/core'
 
 function App() {
